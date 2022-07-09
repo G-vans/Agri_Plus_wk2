@@ -57,3 +57,16 @@ nav .nav-list {
     margin: 4px 2px;
     cursor: pointer;
 }
+
+/*Hero css*/
+.hero-content {
+    background-image: url('photos/image 1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    padding-left: 40px;
+}
+
+.hero-content h1{
+    padding: 2px;    
+}
