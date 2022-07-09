@@ -79,6 +79,7 @@ nav .nav-list {
 }
 .about-container {
     display: flex;
+    justify-content: space-between;
     padding-left: 40px;
 }
 
@@ -89,4 +90,19 @@ nav .nav-list {
 
 .about p {
     font-family: 'Inter' sans-serif;
+    font-size: 16px;
+}
+
+/*categories section*/
+.categ {
+    text-align: center;
+}
+
+.vl2 {
+    border-left: 6px #ED661F;
+    width: 40px;
+}
+
+.categ p {
+    font-size: 18px;
 }
