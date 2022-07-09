@@ -106,3 +106,21 @@ nav .nav-list {
 .categ p {
     font-size: 18px;
 }
+
+/*card-products section */
+
+.prod_section h1 {
+    padding-left: 40px;
+}
+
+.card-container{
+    display: flex;
+    margin:
+    justify-content: space-evenly;
+}
+.card-description em {
+    font-size: 12px;
+}
+.image-card img {
+    width: 150px;
+}
