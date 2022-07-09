@@ -16,6 +16,7 @@ nav .logo {
     padding-left: 0;
     color: #fff;
     margin-left: 20px;
+    font-size: larger;
 }
 
 nav .nav-list {
@@ -63,10 +64,29 @@ nav .nav-list {
     background-image: url('photos/image 1.png');
     background-size: cover;
     background-repeat: no-repeat;
-
     padding-left: 40px;
 }
 
 .hero-content h1{
     padding: 2px;    
+}
+
+/*about css*/
+
+.vl {
+    border-left: 20px #ED661F;
+
+}
+.about-container {
+    display: flex;
+    padding-left: 40px;
+}
+
+.about h2 {
+    font-family: 'Poppins' sans-serif;
+    font-weight: 800;
+}
+
+.about p {
+    font-family: 'Inter' sans-serif;
 }
