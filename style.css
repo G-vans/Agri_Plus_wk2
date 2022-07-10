@@ -362,7 +362,7 @@ hr .line-footer {
     color: #fff;
     display: flex;
     justify-content: space-evenly;
-    padding-top: 40px;
+    padding-top: 50px;
     padding-bottom: 40px;
     padding-right: 0;
 }
@@ -378,9 +378,19 @@ hr .line-footer {
 
 #first-heading {
     float: left;
+    font-size: 30px;
+    font-weight: 800;
+    padding-top: 50px;
     padding-bottom: 10px;
     padding-left: 0;
     font-family: 'Poppins' sans-serif;
+}
+
+#first-heading2 {
+    float: left;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: 'Inter' sans-serif;
 }
 
 .footer-heading a {
@@ -407,14 +417,15 @@ hr .line-footer {
     padding: 5px;
     width: 10px;
     text-decoration: none;
-    margin: 5px 2px;
+    margin-left: 0;
     border-radius: 50%;
     display: inline-flex;
 }
 
 .footer-1 ul {
-    padding-left: 0;
+    padding: 0;
     float: left;
+    margin-left: 0;
 }
 
 .footer-1 li {
