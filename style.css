@@ -120,7 +120,11 @@ nav .nav-list {
 }
 .card-description em {
     font-size: 12px;
+    padding-bottom: 20px;
 }
 .image-card img {
     width: 150px;
+}
+.price {
+    padding-top: 10px;
 }
