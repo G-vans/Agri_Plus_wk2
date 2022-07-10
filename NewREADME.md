@@ -31,7 +31,7 @@
 
 * CSS - which was used to style the pages incuding the left aside navigation bar
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](#Agri_Plus_wk2)
 
 ## Licence
 
@@ -63,6 +63,6 @@ SOFTWARE.
 
 Slack Profile - [Albert Byrone](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
 
-Linked - [Albert Byrone](https://www.linkedin.com/in/albert-byrone-664811144/)
+Twitter - [Jevan Otieno](https://twitter.com/Oya_ni_gee)
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](#Agri_Plus_wk2)
