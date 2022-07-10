@@ -6,16 +6,19 @@
 ## Table of Content
 
 + [Description](#description)
-+ [Installation Requirement](#Installation)
++ [Preview](#preview)
++ [Access](#access)
 + [Technology Used](#technology-used)
-+ [Reference](#reference)
 + [Licence](#licence)
 + [Authors Info](#author-Info)
 
 ## Description
 <p>This is  a website that depicts a landing page of an Agriculture website.</p>
 
-## Installation
+##Preview
+![Screenshot page](photos/screenshot.png)
+
+## Access
 
 ### Requirements
 
@@ -23,9 +26,6 @@
 
 * An access to the Internet
 
-### Installation Process
-
-[Go Back to the top](#portfolio)
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
 
@@ -57,12 +57,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](#Agri_Plus_wk2)
 
 ## Authors Info
-
-Slack Profile - [Albert Byrone](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
-
 Twitter - [Jevan Otieno](https://twitter.com/Oya_ni_gee)
 
 [Go Back to the top](#Agri_Plus_wk2)
