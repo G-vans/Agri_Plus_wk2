@@ -12,12 +12,13 @@ nav {
     background-color: black;
 }
 
-nav .logo {
+.logo h2 {
     font-family: 'Poppins' sans-serif;
+    font-weight: 900;
     padding-left: 0;
     color: #fff;
     margin-left: 20px;
-    font-size: larger;
+    font-size: 35px;
 }
 
 nav .nav-list {
@@ -27,18 +28,22 @@ nav .nav-list {
 .nav-list ul {
     list-style-type: none;
     padding: 30px;
+    font-style: 'Poppins' sans-serif;
 }
 
 .nav-list li {
     display: inline;
     padding: 10px;
-    font-family: 'Inter' sans-serif;
+    
 }
 
 .nav-list li a {
     color: white;
     text-align: center;
     text-decoration: none;
+    font-family: 'Poppins' sans-serif;
+    font-size: 18px;
+    font-weight: 800;
 }
 
 .nav-right li {
@@ -46,18 +51,24 @@ nav .nav-list {
     display: inline;
     list-style-type: none;
     padding: 20px;
+    font-family: 'Poppins' sans-serif;
+    font-size: 18px;
+    font-weight: 800;
 }
 
 .button {
     background-color: #ED661F;
     border: none;
     color: #fff;
-    padding: 10px 10px;
+    padding: 15px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     margin: 4px 2px;
     cursor: pointer;
+    font-family: 'Poppins' sans-serif;
+    font-size: 18px;
+    font-weight: 800;
 }
 
 /*Hero css*/
@@ -71,6 +82,13 @@ nav .nav-list {
 
 .hero-content h1 {
     padding: 2px;
+    font-family: 'Poppins' sans-serif;
+    font-weight: 900;
+}
+
+.hero-words p {
+    font-family: 'Inter' sans-serif;
+    font-weight: 500;
 }
 
 /*about css*/
@@ -112,6 +130,7 @@ nav .nav-list {
 
 .stats p {
     padding: 5px;
+    font-style: 'Poppins' sans-serif;
 }
 
 /*categories section*/
