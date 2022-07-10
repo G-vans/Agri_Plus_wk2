@@ -1,7 +1,7 @@
 # Agri_Plus_wk2
 
 ##### By Jevan Otieno 
-### It is a description of my resume.
+### This is a description of Independent Project for week two.
 
 ## Table of Content
 
@@ -16,7 +16,7 @@
 <p>This is  a website that depicts a landing page of an Agriculture website.</p>
 
 ##Preview
-![Screenshot page](photos/screenshot.png)
+![Screenshot page](https://github.com/G-vans/Agri_Plus_wk2/blob/main/photos/Screenshot%20.png)
 
 ## Access
 
