@@ -1,6 +1,7 @@
 * {
     max-width: 900px;
     margin: auto;
+    border: 1px black;
 }
 
 /*nav-bar css*/
@@ -67,8 +68,8 @@ nav .nav-list {
     padding-left: 40px;
 }
 
-.hero-content h1{
-    padding: 2px;    
+.hero-content h1 {
+    padding: 2px;
 }
 
 /*about css*/
@@ -77,6 +78,7 @@ nav .nav-list {
     border-left: 20px #ED661F;
 
 }
+
 .about-container {
     display: flex;
     justify-content: space-between;
@@ -113,7 +115,7 @@ nav .nav-list {
     padding-left: 40px;
 }
 
-.card-container{
+.card-container {
     display: flex;
     justify-content: space-evenly;
 }
@@ -122,14 +124,20 @@ nav .nav-list {
     font-size: 12px;
     padding-bottom: 20px;
 }
+
 .image-card img {
     width: 150px;
 }
+
 .price {
     padding-top: 10px;
 }
 
 /*Review card*/
+
+.review-title {
+    padding-left: 40px;
+}
 
 .checked {
     color: #ED661F;
@@ -138,13 +146,14 @@ nav .nav-list {
 }
 
 .checked2 {
+    color: grey;
     font-size: 30px;
 }
 
 .card-description2 {
-    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
     transition: 0.3s;
-    width: 200px;
+    width: 220px;
     height: 250px;
     padding: 20px;
 }
@@ -172,3 +181,111 @@ nav .nav-list {
     height: 30px;
     margin-left: 0;
 }
+
+/*Subscribe section*/
+
+.sub-container {
+    background-color: black;
+    color: #fff;
+    height: 300px;
+    width: 100%;
+}
+
+.subscribe {
+    padding-left: 300px;
+    padding-top: 80px;
+}
+
+.subscribe p {
+    padding-left: 40px;
+    padding-top: 10px;
+}
+
+hr .line-footer {
+    border: 20px #ED661F;
+}
+
+/*footer-2*/
+
+
+.footer {
+
+    background-color: black;
+    height: 300px;
+    color: #fff;
+    display: flex;
+    justify-content: space-evenly;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 0;
+}
+
+.footer-heading {
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-1 #first-heading {
+    padding-bottom: 10px;
+    padding-left: 0;
+    font-family: 'Poppins' sans-serif;
+}
+
+.footer-heading a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 13px;
+}
+
+.footer-container ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.footer-container li {
+    padding: 5px;
+}
+
+.footer-heading h2 {
+    float: left;
+}
+
+.footer .fa {
+    padding: 5px;
+    width: 10px;
+    text-decoration: none;
+    margin: 5px 2px;
+    border-radius: 50%;
+    display: inline-flex;
+}
+
+.footer-1 ul {
+    padding-left: 0;
+    float: left;
+}
+
+.footer-1 li {
+    display: inline-block;
+}
+
+.footer-1 p {
+    margin-left: 0;
+}
+
+.fa-facebook {
+    background: grey;
+    color: white;
+    border: 1px black;
+}
+
+.fa-twitter {
+    background: gray;
+    color: white;
+}
+
+.fa-instagram {
+    background: gray;
+    color: white;
+  }
+  
