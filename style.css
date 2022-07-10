@@ -34,7 +34,7 @@ nav .nav-list {
 .nav-list li {
     display: inline;
     padding: 10px;
-    
+
 }
 
 .nav-list li a {
@@ -154,7 +154,6 @@ span {
     width: 10%;
     height: 3px;
     background-color: #ED661F;
-    
     margin-left: 0px;
     border-width: 2px;
 }
