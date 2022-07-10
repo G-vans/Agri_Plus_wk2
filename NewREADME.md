@@ -27,9 +27,9 @@
 * An access to the Internet
 
 ## Technology Used
-* HTML - which was used to build the structure of the pages.
+* HTML - this was the markup language used to build the structure of the page.
 
-* CSS - which was used to style the pages incuding the left aside navigation bar
+* CSS - this was used to style the page 
 
 [Go Back to the top](#Agri_Plus_wk2)
 
