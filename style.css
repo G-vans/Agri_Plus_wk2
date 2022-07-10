@@ -93,9 +93,56 @@ nav .nav-list {
 
 /*about css*/
 
-.vl {
-    border-left: 20px #ED661F;
+span {
+    content: "\27F6";
+    color: #ED661F;
+    padding-right: 40px;
+    font-size: 40px;
+    padding-bottom: 20px;
+}
 
+.hr1 {
+    width: 20%;
+    height: 3px;
+    background-color: #ED661F;
+    margin-right: auto;
+    margin-left: 0;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-width: 2px;
+}
+
+.hr2 {
+    width: 10%;
+    height: 3px;
+    background-color: #ED661F;
+    margin-right: auto;
+    margin-left: 45%;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    border-width: 2px;
+}
+
+.hr3 {
+    width: 10%;
+    height: 3px;
+    background-color: #ED661F;
+    margin-right: auto;
+    margin-left: 40px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-width: 2px;
+}
+
+.hr4 {
+    width: 50%;
+    height: 3px;
+    background-color: #ED661F;
+    margin-right: auto;
+    margin-left: 0px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-width: 2px;
 }
 
 .about-container {
@@ -128,9 +175,10 @@ nav .nav-list {
     background-color: #fff;
 }
 
-.stats p {
-    padding: 5px;
+.stat-1 .stat-2 .stat-3 p {
+    padding: 30px;
     font-style: 'Poppins' sans-serif;
+    font-weight: 1300;
 }
 
 /*categories section*/
@@ -171,6 +219,31 @@ nav .nav-list {
     padding-top: 10px;
 }
 
+.button2 {
+    background-color: #fff;
+    border: none;
+    color: black;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    float: right;
+    margin: 4px 2px;
+    cursor: pointer;
+    font-family: 'Inter' sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.btn-more {
+    float: right;
+    display: flex;
+}
+
+.hr5 {
+    border: 10px solid rgb(187, 184, 184);
+    width: 100%;
+}
+
 /*Review card*/
 
 .review-title {
@@ -180,12 +253,13 @@ nav .nav-list {
 .checked {
     color: #ED661F;
     font-size: 30px;
-    padding-bottom: 40px;
+    padding: 5px;
 }
 
 .checked2 {
     color: grey;
     font-size: 30px;
+    padding: 0;
 }
 
 .card-description2 {
@@ -199,11 +273,12 @@ nav .nav-list {
 .card-container2 {
     display: flex;
     margin: 20px;
-    justify-content: space-evenly;
+    justify-content: space-between;
 }
 
 .review-words h3 {
     font-size: 30px;
+    padding-top: 20px;
 }
 
 .round-img-card {
@@ -241,6 +316,25 @@ nav .nav-list {
 
 hr .line-footer {
     border: 20px #ED661F;
+}
+
+.subscribe-cont input[type=text] {
+    padding: 10px;
+    margin-right: 0;
+}
+
+.btn-sub {
+    background-color: #ED661F;
+    border: none;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    margin-left: 0;
+    cursor: pointer;
+    font-family: 'Poppins' sans-serif;
+    font-size: 15px;
+    font-weight: 800;
 }
 
 /*footer-2*/
