@@ -46,6 +46,11 @@ nav .nav-list {
     font-weight: 800;
 }
 
+.active {
+    content: "\27F6";
+    color: #ED661F;
+}
+
 .nav-right li {
     color: #fff;
     display: inline;
@@ -142,6 +147,15 @@ span {
     margin-left: 0px;
     margin-top: 5px;
     margin-bottom: 5px;
+    border-width: 2px;
+}
+
+.hr6 {
+    width: 10%;
+    height: 3px;
+    background-color: #ED661F;
+    
+    margin-left: 0px;
     border-width: 2px;
 }
 
