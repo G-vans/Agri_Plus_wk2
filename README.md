@@ -1,7 +1,7 @@
 # Agri_Plus_wk2
 
 ##### By Jevan Otieno 
-### It is a description of my resume.
+### This is a Landing page for an Agricultural website depicting products from farmers..
 
 ## Table of Content
 
