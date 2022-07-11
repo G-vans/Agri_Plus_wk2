@@ -1,21 +1,24 @@
 # Agri_Plus_wk2
 
 ##### By Jevan Otieno 
-### This is a Landing page for an Agricultural website depicting products from farmers..
+### This is a description of Independent Project for week two.
 
 ## Table of Content
 
 + [Description](#description)
-+ [Installation Requirement](#Installation)
++ [Preview](#preview)
++ [Access](#access)
 + [Technology Used](#technology-used)
-+ [Reference](#reference)
 + [Licence](#licence)
 + [Authors Info](#author-Info)
 
 ## Description
 <p>This is  a website that depicts a landing page of an Agriculture website.</p>
 
-## Installation
+##Preview
+![Screenshot page](https://github.com/G-vans/Agri_Plus_wk2/blob/main/photos/Screenshot%20.png)
+
+## Access
 
 ### Requirements
 
@@ -23,13 +26,10 @@
 
 * An access to the Internet
 
-### Installation Process
-
-[Go Back to the top](#portfolio)
 ## Technology Used
-* HTML - which was used to build the structure of the pages.
+* HTML - this was the markup language used to build the structure of the page.
 
-* CSS - which was used to style the pages incuding the left aside navigation bar
+* CSS - this was used to style the page 
 
 [Go Back to the top](#Agri_Plus_wk2)
 
@@ -57,10 +57,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](#Agri_Plus_wk2)
 
 ## Authors Info
-
 Twitter - [Jevan Otieno](https://twitter.com/Oya_ni_gee)
 
 [Go Back to the top](#Agri_Plus_wk2)
