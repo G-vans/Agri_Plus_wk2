@@ -15,7 +15,7 @@
 ## Description
 <p>This is  a website that depicts a landing page of an Agriculture website.</p>
 
-##Preview
+## Preview
 ![Screenshot page](https://github.com/G-vans/Agri_Plus_wk2/blob/main/photos/Screenshot%20.png)
 
 ## Access
