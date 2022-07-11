@@ -37,7 +37,7 @@
 
 MIT License
 
-Copyright (c) [2019] [Jevan Otieno]
+Copyright (c) 2022 Jevan Otieno
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
