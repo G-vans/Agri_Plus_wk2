@@ -61,8 +61,6 @@ SOFTWARE.
 
 ## Authors Info
 
-Slack Profile - [Albert Byrone](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
-
 Twitter - [Jevan Otieno](https://twitter.com/Oya_ni_gee)
 
 [Go Back to the top](#Agri_Plus_wk2)
